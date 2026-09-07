@@ -126,23 +126,34 @@ Passionate Web Developer with a strong focus on building practical, full-stack w
 
 <div align="center">
 
-  <!-- Main Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- 🏆 GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RamaPutra007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Rama's Trophies" />
 
   <br/><br/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true" />
+  <!-- 📈 Core Stats & Most Used Languages -->
+  <table border="0">
+    <tr valign="top">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="95%" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamaPutra007&theme=tokyo-night&hide_border=true" width="95%" />
+  <!-- 🌊 Activity Contribution Wave -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamaPutra007&theme=tokyo-night&hide_border=true&area=true&border_radius=8" width="95%" alt="Activity Graph" />
 
 </div>
-
----
 
 ### 🤝 Let's Connect & Collaborate
 

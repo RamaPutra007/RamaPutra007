@@ -125,20 +125,21 @@ Passionate Web Developer with a strong focus on building practical, full-stack w
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rama's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+  <!-- Main Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamaPutra007&theme=tokyo-night&hide_border=true" width="95%" />
+
 </div>
 
 ---

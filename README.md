@@ -1,176 +1,163 @@
 <div align="center">
 
-  # 👨‍💻 Rama Permana Putra
-  ### **Full-Stack Web Developer & Tech Enthusiast**
+# 👋 Hi, I'm Rama Permana Putra
+### 💻 Web Developer | Full-Stack Developer
 
-  <p align="center">
-    <i>Crafting clean, scalable, and impact-driven web applications from database architecture to intuitive interfaces.</i>
-  </p>
+Building modern, practical, and user-focused web applications.
 
-  <p align="center">
-    <a href="https://github.com/RamaPutra007">
-      <img src="https://img.shields.io/badge/GitHub-RamaPutra007-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=RamaPutra007&style=for-the-badge&color=007ec6">
-      <img src="https://komarev.com/ghpvc/?username=RamaPutra007&style=for-the-badge&color=007ec6" alt="Profile Views" />
-    </a>
-    <a href="mailto:ramaputrap@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-00c853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,24&height=120&section=header" width="100%" />
+<p align="center">
+  <a href="https://github.com/RamaPutra007">
+    <img src="https://img.shields.io/badge/GitHub-RamaPutra007-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=RamaPutra007&style=for-the-badge&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=RamaPutra007&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/RamaPutra007/Portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 💫 About Me
+## 🚀 About Me
 
-Passionate Web Developer with a strong focus on building practical, full-stack web solutions that solve real operational problems. Experienced with modern backend architectures (Laravel, Node.js), robust relational databases (MySQL), and interactive frontends.
+I'm a Web Developer passionate about building useful and modern web applications. I enjoy turning ideas into functional applications, working with databases and APIs, and continuously improving my development skills.
 
-- 🔭 **Current Focus:** Full-Stack Architecture, RESTful API Engineering, and Web Security
-- 💼 **Specialty:** ERP/SaaS-like management systems (POS, CMS, Booking & Operations)
-- 🌱 **Learning & Exploring:** Cloud Integrations, Machine Learning fundamentals & modern TypeScript tooling
-- 💡 **Philosophy:** Writing readable, maintainable, and pragmatic code that creates genuine value
+- 💻 **Focus:** Modern Web & Full-Stack Development
+- 🌐 **Frontend:** Crafting responsive, accessible, and clean user interfaces
+- ⚙️ **Backend:** Designing robust RESTful APIs, business logic, and database schemas
+- 📚 **Lifelong Learning:** Continuously exploring modern frameworks and best coding practices
+- 🚀 **Mission:** Turning practical ideas into production-ready software
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Area | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks & Libs** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Database & ORM** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Eloquent](https://img.shields.io/badge/-Eloquent%20ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Tools & Devops** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & Libs** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-### 🚀 Featured Repositories & Solutions
+## ⭐ Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/RamaPutra007/Pos-Cafe">POS-Cafe</a></h4>
-      <p>Comprehensive Point of Sale solution catering to daily cafe operations.</p>
+      <h3>☕ <a href="https://github.com/RamaPutra007/Pos-Cafe">Pos-Cafe</a></h3>
+      <p>Point of Sale application designed to streamline cafe operations and daily sales.</p>
       <ul>
-        <li>Real-time transaction tracking & automated billing</li>
-        <li>Stock/Inventory management & threshold alerts</li>
-        <li>Financial reporting & revenue analytics</li>
+        <li>Fast cashier transaction system & receipt generation</li>
+        <li>Product catalog & real-time inventory tracking</li>
+        <li>Financial sales reporting and summary</li>
       </ul>
-      <p><b>Tech:</b> <code>Laravel</code> <code>MySQL</code> <code>Blade/JavaScript</code></p>
+      <p><b>Tech:</b> <code>Laravel</code> <code>MySQL</code> <code>Blade</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧺 <a href="https://github.com/RamaPutra007/Laundry">Laundry Management System</a></h4>
-      <p>End-to-end management software for laundry businesses and customer order tracking.</p>
+      <h3>🧺 <a href="https://github.com/RamaPutra007/Laundry">Laundry Management System</a></h3>
+      <p>Operational web management software for laundry businesses and customer tracking.</p>
       <ul>
-        <li>Automated order lifecycle tracking & receipts</li>
-        <li>Customer management & service package tiers</li>
-        <li>Integrated transactional notification workflow</li>
+        <li>Order workflow & tracking status from drop-off to pickup</li>
+        <li>Customer database and package pricing configuration</li>
+        <li>Automated order notifications and transaction logs</li>
       </ul>
       <p><b>Tech:</b> <code>Laravel</code> <code>MySQL</code> <code>REST API</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📰 <a href="https://github.com/RamaPutra007/cms-blog-berita">CMS Blog Berita</a></h4>
-      <p>Clean and performant Content Management System for news publishing.</p>
+      <h3>📰 <a href="https://github.com/RamaPutra007/cms-blog-berita">CMS Blog Berita</a></h3>
+      <p>Content Management System for publishing, editing, and categorizing news articles.</p>
       <ul>
-        <li>Role-based access control (Admin/Editor)</li>
-        <li>Rich-text editing, categorization & media management</li>
-        <li>SEO-friendly URL routing and performance-tuned queries</li>
+        <li>Admin dashboard with role-based access control</li>
+        <li>Article management with rich-text editor & media upload</li>
+        <li>SEO-friendly routing and responsive reader view</li>
       </ul>
       <p><b>Tech:</b> <code>PHP</code> <code>Laravel</code> <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/RamaPutra007/kost-management-system">Kost Management System</a></h4>
-      <p>Property and tenant administration system for boarding houses.</p>
+      <h3>🏠 <a href="https://github.com/RamaPutra007/kost-management-system">Kost Management System</a></h3>
+      <p>Boarding house and property management application for landlords and tenants.</p>
       <ul>
-        <li>Room allocation & occupancy monitoring</li>
-        <li>Monthly tenant billing & payment logs</li>
-        <li>Centralized records of contracts and tenant identity</li>
+        <li>Room availability & occupancy tracking</li>
+        <li>Tenant record keeping and monthly rental fee monitoring</li>
+        <li>Payment history logging</li>
       </ul>
       <p><b>Tech:</b> <code>PHP</code> <code>MySQL</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📝 <a href="https://github.com/RamaPutra007/Catatanku">Catatanku</a></h4>
-      <p>Lightweight personal productivity app for notes & task tracking.</p>
+      <h3>📝 <a href="https://github.com/RamaPutra007/Catatanku">Catatanku</a></h3>
+      <p>A simple, intuitive web application for personal notes and task organization.</p>
       <ul>
-        <li>Full CRUD functionality with responsive UI</li>
-        <li>Clean search and category filtering</li>
+        <li>Complete CRUD operations for personal notes</li>
+        <li>Search, tag filtering, and clean responsive layout</li>
       </ul>
       <p><b>Tech:</b> <code>JavaScript</code> <code>PHP</code> <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/RamaPutra007/Portofolio">Personal Portfolio</a></h4>
-      <p>Modern responsive showcase highlighting engineering projects and technical stack.</p>
+      <h3>🌐 <a href="https://github.com/RamaPutra007/Portofolio">Personal Portfolio</a></h3>
+      <p>Personal portfolio website showcasing software projects, skill sets, and experience.</p>
       <ul>
-        <li>Mobile-first architecture</li>
-        <li>Interactive showcase with dynamic components</li>
+        <li>Responsive mobile-first design</li>
+        <li>Interactive UI and project showcase gallery</li>
       </ul>
-      <p><b>Tech:</b> <code>Frontend</code> <code>UI/UX</code> <code>Clean CSS</code></p>
+      <p><b>Tech:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-  <!-- 🏆 GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RamaPutra007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Rama's Trophies" />
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </p>
 
-  <br/><br/>
-
-  <!-- 📈 Core Stats & Most Used Languages -->
-  <table border="0">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RamaPutra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaPutra007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=8" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- 🔥 GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="95%" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- 🌊 Activity Contribution Wave -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamaPutra007&theme=tokyo-night&hide_border=true&area=true&border_radius=8" width="95%" alt="Activity Graph" />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=RamaPutra007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 
 </div>
 
-### 🤝 Let's Connect & Collaborate
+---
 
-<div align="center">
-  <p>I'm always open to discussing new opportunities, web development projects, or tech collaborations!</p>
+## 📈 My Development Journey
 
-  <a href="https://github.com/RamaPutra007">
-    <img src="https://img.shields.io/badge/GitHub-RamaPutra007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/RamaPutra007/Portofolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Built with ❤️ by Rama Permana Putra • Continuously iterating & learning</sub>
-</div>
+```text
+Web Development
+     │
+     ├── Frontend
+     │   ├── HTML5
+     │   ├── CSS3
+     │   ├── JavaScript
+     │   ├── TypeScript
+     │   └── React
+     │
+     ├── Backend
+     │   ├── PHP
+     │   ├── Laravel
+     │   ├── Node.js
+     │   └── RESTful APIs
+     │
+     ├── Database
+     │   └── MySQL
+     │
+     └── Tools & Workflow
+         ├── Git
+         ├── GitHub
+         └── Postman
